@@ -1,1 +1,1 @@
-# django_project
+# referal_dj
